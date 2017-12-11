@@ -1,14 +1,14 @@
 {
-  "name": "flow-typed",
+  "name": "@aot/flow-typed",
   "description": "A repository of high quality flowtype definitions",
   "license": "MIT",
   "homepage": "https://github.com/flowtype/flow-typed#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flowtype/flow-typed.git"
+    "url": "git+https://github.com/theadsontop/flow-typed.git"
   },
   "bugs": {
-    "url": "https://github.com/flowtype/flow-typed/issues"
+    "url": "https://github.com/theadsontop/flow-typed/issues"
   },
   "version": "2.2.3",
   "main": "dist/cli.js",
